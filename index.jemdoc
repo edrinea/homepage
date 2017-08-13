@@ -1,13 +1,18 @@
-# jemdoc: notime
+# jemdoc: menu{MENU}{index.html}, notime
 = Eleni Drinea
 
-#{}{img_left}{Eleni_Drinea1.jpg}{Eleni Drinea}{177px}{177px}{}
-#~~~
+~~~
+{}{img_left}{Eleni_Drinea1.jpg}{Eleni Drinea}{177px}{177px}{}
+~~~
 
 Lecturer in Discipline \n
 Graduate Student Advisor \n
 [http://datascience.columbia.edu/ Data Science Institute] \n
 [http://www.columbia.edu/ Columbia University] 
+
+== Bio
+
+Eleni Drinea received a B.S. degree in computer engineering in 1999 from the University of Patras, Greece. She obtained her Ph.D in computer science from Harvard University in 2005. She then joined the New England Complex Systems Institute in 2006 as a postdoctoral fellow working on information theoretic tools for data analysis. From 2007 to 2009 she was a research associate with the school of computer and communication sciences at EPFL, Switzerland, where her interests centered around reliable wireless communication and network coding. She is currently an adjunct professor at Columbia University.
 
 == Contact
 
